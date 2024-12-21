@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:23:50:23 +0700] "GET /MamSchool HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:23:50:24 +0700] "GET /MamSchool/ HTTP/1.1" 200 16196 http-bio-8080-exec-3 1375
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:23:50:24 +0700] "GET /MamSchool/Image/education.svg HTTP/1.1" 200 7800 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:23:50:24 +0700] "GET /MamSchool/Image/belajar.svg HTTP/1.1" 200 16729 http-bio-8080-exec-5 4
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:23:50:24 +0700] "GET /MamSchool/Image/travel.svg HTTP/1.1" 200 6875 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:23:50:24 +0700] "GET /MamSchool/Image/bussiness.svg HTTP/1.1" 200 19514 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:23:50:24 +0700] "GET /MamSchool/Image/family.svg HTTP/1.1" 200 20404 http-bio-8080-exec-8 16
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:23:50:35 +0700] "GET /MamSchool/frontEnd/Login.jsp HTTP/1.1" 200 3126 http-bio-8080-exec-8 230
+0:0:0:0:0:0:0:1 - - [19/Dec/2024:23:51:00 +0700] "POST /MamSchool/LoginServlet HTTP/1.1" 500 3318 http-bio-8080-exec-8 12
